@@ -1,0 +1,46 @@
+
+/* CSS for styling the portfolio website with pink and purple colors */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffe6f0; /* Light pink background */
+    color: #4d004d; /* Dark purple text */
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff0ff; /* Very light pink background for the container */
+    box-shadow: 0 0 10px rgba(102, 0, 102, 0.2); /* Soft purple shadow */
+}
+
+h1, h2 {
+    color: #cc0099; /* Bright pink for headings */
+}
+
+p.intro, p.friend-text {
+    font-size: 1.2em;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+.friend-text {
+    color: #cc66ff; /* Soft purple for friend text */
+    font-weight: bold;
+    font-size: 1.1em;
+}
